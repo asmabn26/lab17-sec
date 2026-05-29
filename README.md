@@ -422,9 +422,7 @@ La partie utile se trouve à la fin de la fonction :
 
 ![Constantes dans FUN_001012c0](images/24.png)
 
-Une autre capture montre clairement les constantes utilisées pour reconstruire la valeur encodée.
 
-![Constantes encodées utilisées](images/27.png)
 
 Comme l’architecture est en little-endian, les octets doivent être lus à l’envers par blocs :
 
